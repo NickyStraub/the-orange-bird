@@ -1,5 +1,5 @@
 ---
-title: "The Orange Bird"
+title: "The Orange Bird Blog"
 theme: minima
 ---
 
