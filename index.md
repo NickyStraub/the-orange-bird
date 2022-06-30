@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "The Orange Bird Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi! My name is Nicky and I'm a software developer based in Boston. Welcome to my blog about all things iOS development.
