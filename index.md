@@ -1,5 +1,5 @@
 ---
-title: "The Orange Bird TEST"
+title: "The Orange Bird"
 ---
 
 Hi! 
