@@ -2,6 +2,4 @@
 title: "The Orange Bird"
 ---
 
-Hi! 
-
-My name is Nicky and I'm a software developer based in Boston. Welcome to my blog!
+Hey there! My name is Nicky and I'm a software developer based in Boston. Welcome to my blog!
