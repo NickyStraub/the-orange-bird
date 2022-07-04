@@ -16,6 +16,8 @@ Next steps will be to continue building out the API, and get my repos up on my G
 
 STOKED :)
 
-<img width="302" alt="Screen Shot 2022-07-03 at 10 28 53 PM" src="https://user-images.githubusercontent.com/92061170/177071119-e7d290a1-2bc2-4bfe-b200-1e9230625e8e.png">
+<img width="300" alt="Screen Shot 2022-07-03 at 10 31 48 PM" src="https://user-images.githubusercontent.com/92061170/177071388-a264d326-aa16-48fc-a844-6aebc3eaaecd.png">
+
+
 
 
