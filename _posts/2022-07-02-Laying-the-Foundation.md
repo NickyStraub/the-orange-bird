@@ -15,3 +15,27 @@ I'm proud to say that I've done all of this honoring my "docs first" goal. While
 Next steps will be to continue building out the API, and get my repos up on my GitHub profile.
 
 STOKED :)
+
+
+                    .
+			   \&.
+	  .                \&&.
+    .     ‘&       	     \&&:.
+     ‘&.   ‘&.              \&&&&.
+      ‘&&.  ‘&&.     	      \&&&&&
+        ‘&&.  ‘&&&.          }&&&&&.
+	  ‘&&&. ‘&&&&.        }&&&&&&
+           ‘&&&&.‘&&&&&.     }&&&&&&&
+             ‘&&&&.‘&&&&&.   /&&&&&&&.
+	        ‘&&&&&&&&&&&&/&&&&&&&&
+                 ‘&&&&&&&&&&&&&&&&&&&.
+.                  ‘&&&&&&&&&&&&&&&&&.
+ \&.                 ‘&&&&&&&&&&&&&&&
+  `&&&.               &&&&&&&&&&&&&&&&
+    `&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+      `&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+         `&&&&&&&&&&&&&&&&&&&&&&&’’’&&&&|
+             ``&&&&&&&&&&&&’’         &&|
+                                       ‘’
+![image](https://user-images.githubusercontent.com/92061170/177070595-b7175920-9f05-491d-89d8-35c9cf2bc9fb.png)
+
