@@ -1,6 +1,6 @@
 ---
 Title: "Laying the Foundation"
-Date: "07/02/2022"
+Date: "2022-07-02"
 ---
 
 It's finally time to get the foundations set for the project, which I've officially decided to name FourFour! Since the app will be a practice tool that encourages regularly scheduled practicing, I thought the concept of 4/4, which is referred to as "Common Time" when discussing time signatures, would be a nice name as both a musical term and a nod to practicing consistency. 
