@@ -1,3 +1,8 @@
+---
+Title: "Laying the Foundation"
+Date: "07/02/2022"
+---
+
 It's finally time to get the foundations set for the project, which I've officially decided to name FourFour! Since the app will be a practice tool that encourages regularly scheduled practicing, I thought the concept of 4/4, which is referred to as "Common Time" when discussing time signatures, would be a nice name as both a musical term and a nod to practicing consistency. 
 
 Set-up has been going well so far. One of the pieces of this project that I was especially excited for was building my own APIs from scratch, since my iOS experience to this point has largely revolved around the mythical Google Firebase and its many beyond-polished tools. While it's fun, efficient, and practical to work with Firebase, I really wanted to build from the ground up, just to get a better sense of how it all works. 
